@@ -2,7 +2,7 @@ import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
 
 export default defineUserConfig({
-  base: '/',
+  base: '/ccshcc-dds-docs/',
 
   // site-level locales config
   locales: {
