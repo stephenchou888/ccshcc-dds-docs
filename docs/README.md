@@ -1,3 +1,5 @@
+![VuePress Logo](/images/hero.jpg)
+
 # 功能介绍
 
 本软件为CAD二次开发软件，需要安装AUTOCAD及中望CAD版本进行使用。
