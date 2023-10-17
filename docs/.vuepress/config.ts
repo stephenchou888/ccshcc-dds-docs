@@ -1,5 +1,9 @@
 import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
+import { searchPlugin } from '@vuepress/plugin-search'
+import {
+  navbarZhCN,
+} from './configs/index.js'
 
 export default defineUserConfig({
   base: '/ccshcc-dds-docs/',
@@ -25,7 +29,7 @@ export default defineUserConfig({
       // Simplified Chinese
       '/': {
         // navbar
-        //navbar: navbarZhCN,
+        navbar: navbarZhCN,
         selectLanguageName: '简体中文',
         selectLanguageText: 'Languages',
         selectLanguageAriaLabel: '选择语言',
@@ -53,6 +57,16 @@ export default defineUserConfig({
         toggleSidebar: '切换侧边栏'
       }
     },
+
+    plugins: [
+      searchPlugin({
+        locales: {
+          '/': {
+            placeholder: '搜索'
+          },
+        },
+      }),
+    ],
 
     themePlugins: {
       // Disable git plugin, git plugin shows contributor and last update time.
