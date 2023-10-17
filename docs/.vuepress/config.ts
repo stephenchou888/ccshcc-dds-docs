@@ -1,8 +1,9 @@
 import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
+// import { searchPlugin } from '@vuepress/plugin-search'
 import {
   navbarZhCN,
-} from './configs/navbar/index.js'
+} from './configs/navbar/index.ts'
 
 export default defineUserConfig({
   base: '/ccshcc-dds-docs/',
@@ -11,7 +12,7 @@ export default defineUserConfig({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '交通工程数字化设计系统帮助文档',
+      title: '交通工程数字化设计系统',
       description: '交通工程数字化设计系统帮助文档',
     }
   },
@@ -57,7 +58,7 @@ export default defineUserConfig({
       }
     },
 
-    plugins: [
+    /*plugins: [
       searchPlugin({
         locales: {
           '/': {
@@ -65,11 +66,12 @@ export default defineUserConfig({
           },
         },
       }),
-    ],
+    ],*/
 
     themePlugins: {
       // Disable git plugin, git plugin shows contributor and last update time.
       git: false
     },
   })
+  
 })
