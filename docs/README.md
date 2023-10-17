@@ -20,18 +20,30 @@
 
 当安装完成后，应点击安装界面中的桌面建立启动图标，生成桌面启动快捷方式。
 
-如果发生无法启动软件的情况，可以使用CAD加载命令文件指令“appload”，加载 `C:\Program Files (x86)\ZJSoft\R23\kmCom.arx 与 C:\Program Files (x86)\ZJSoft\R23\kmLoad.arx`
+如果发生无法启动软件的情况，可以使用CAD加载命令文件指令“appload”。
 
-加载完成后即可完成程序加载与启动
+加载 `C:\Program Files (x86)\ZJSoft\R23\kmCom.arx`  
+
+加载 `C:\Program Files (x86)\ZJSoft\R23\kmLoad.arx` 
+
+加载完成后即可完成程序加载与启动。
 
 ### 软件对应CAD版本
 
 AUTOCAD R17 ===> 2007 2008 2009
+
 AUTOCAD R18 ===> 2010 2011 2012
+
 AUTOCAD R19 ===> 2013 2014 2015
+
 AUTOCAD R22 ===> 2018
+
 AUTOCAD R23 ===> 2019 2020 
+
 ZW 2021     ===> 中望CAD2021
+
 ZW 2022     ===> 中望CAD2022
+
 ZW 2023     ===> 中望CAD2023
+
 ZW 2024     ===> 中望CAD2024
