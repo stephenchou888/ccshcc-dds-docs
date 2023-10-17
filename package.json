@@ -1,0 +1,26 @@
+{
+  "name": "ccshcc-dds-docs",
+  "version": "1.0.0",
+  "description": "这是交通工程帮助文档的第一个README.md",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenchou888/ccshcc-dds-docs.git"
+  },
+  "author": "stephenchou888",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephenchou888/ccshcc-dds-docs/issues"
+  },
+  "homepage": "https://github.com/stephenchou888/ccshcc-dds-docs#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.67"
+  }
+}
