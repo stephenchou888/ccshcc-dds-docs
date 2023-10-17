@@ -1,9 +1,8 @@
 import { defineUserConfig } from '@vuepress/cli'
 import { defaultTheme } from '@vuepress/theme-default'
-import { searchPlugin } from '@vuepress/plugin-search'
 import {
   navbarZhCN,
-} from './configs/index.js'
+} from './configs/navbar/index.js'
 
 export default defineUserConfig({
   base: '/ccshcc-dds-docs/',
