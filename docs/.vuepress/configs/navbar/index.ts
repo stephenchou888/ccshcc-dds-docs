@@ -27,6 +27,15 @@ export const navbarZhCN: NavbarConfig = [
         ]
     },
     {
+        text: 'Tips',
+        children: [
+            {
+                text: '软件使用问答',
+                link: '/tips/'
+            },
+        ]
+    },
+    {
         text: '售后',
         children: [
             {
