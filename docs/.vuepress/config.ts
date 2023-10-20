@@ -19,7 +19,7 @@ export default defineUserConfig({
 
   // configure default theme
   theme: defaultTheme({
-    logo: '',
+    logo: '/images/logo.jpg',
     repo: 'stephenchou888/ccshcc-dds-docs',
     docsDir: 'docs',
     sidebarDepth: 1,
