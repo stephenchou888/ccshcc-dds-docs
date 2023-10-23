@@ -23,6 +23,7 @@ export const sidebarZhCN: SidebarConfig = {
             children: [
                 '/import/README.md',
                 '/import/signs.md',
+                '/import/markings.md'
             ]
         }
     ]
