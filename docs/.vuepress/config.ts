@@ -3,7 +3,8 @@ import { defaultTheme } from '@vuepress/theme-default'
 // import { searchPlugin } from '@vuepress/plugin-search'
 import {
   navbarZhCN,
-} from './configs/navbar/index.ts'
+  sidebarZhCN
+} from './configs/index.js'
 
 export default defineUserConfig({
   base: '/ccshcc-dds-docs/',
@@ -22,7 +23,7 @@ export default defineUserConfig({
     logo: '/images/logo.jpg',
     repo: 'stephenchou888/ccshcc-dds-docs',
     docsDir: 'docs',
-    sidebarDepth: 1,
+    sidebarDepth: 2,
 
     // theme-level locales config
     locales: {
@@ -34,7 +35,7 @@ export default defineUserConfig({
         selectLanguageText: 'Languages',
         selectLanguageAriaLabel: '选择语言',
         // sidebar
-        //sidebar: sidebarZhCN,
+        sidebar: sidebarZhCN,
         // page meta
         editLinkText: '在 GitHub 上编辑此页',
         lastUpdatedText: '上次更新',
