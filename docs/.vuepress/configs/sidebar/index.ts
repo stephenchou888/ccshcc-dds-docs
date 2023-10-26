@@ -23,8 +23,18 @@ export const sidebarZhCN: SidebarConfig = {
             children: [
                 '/import/README.md',
                 '/import/signs.md',
-                '/import/markings.md'
+                '/import/markings.md',
+                '/import/guardrail.md'
             ]
         }
+    ],
+    '/download/': [
+        {
+            text: '下载与更新记录',
+            children: [
+                '/download/README.md',
+                '/download/fix.md'
+            ]
+            }
     ]
 }

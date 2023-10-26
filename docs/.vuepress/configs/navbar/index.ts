@@ -36,6 +36,15 @@ export const navbarZhCN: NavbarConfig = [
         ]
     },
     {
+        text: '下载与更新记录',
+        children: [
+            {
+                text: '软件更新地址',
+                link: '/download/'
+            },
+        ]
+    },
+    {
         text: '售后',
         children: [
             {
@@ -46,6 +55,6 @@ export const navbarZhCN: NavbarConfig = [
                 text: '微信 15907194551',
                 link: ''
             },
-               ]
+        ]
     }
 ]
