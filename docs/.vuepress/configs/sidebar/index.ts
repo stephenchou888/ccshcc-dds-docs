@@ -24,7 +24,9 @@ export const sidebarZhCN: SidebarConfig = {
                 '/import/README.md',
                 '/import/signs.md',
                 '/import/markings.md',
-                '/import/guardrail.md'
+                '/import/guardrail.md',
+                '/import/communication.md',
+                '/import/tunnel.md'
             ]
         }
     ],
