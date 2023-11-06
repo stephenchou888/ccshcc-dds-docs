@@ -1,8 +1,22 @@
 # 更新记录
 
-:::tip
+:::tip 1.6.3-1 补充更新：新增标志扩展包与B模式中分带表格原则
 
-1.6.3 版本
+本次更新新增第一个软件标志通用扩展包
+
+![images](/download/1.6.3-1/sings-0.png)
+
+![images](/download/1.6.3-1/sings-1.png)
+
+![images](/download/1.6.3-1/sings-2.png)
+
+新增B模式护栏中分带新模式中的基准原则
+
+![images](/download/1.6.3-1/guardrail-hand.png)
+
+:::
+
+:::tip 1.6.3 版本
 
 UPDATE:
 
@@ -13,7 +27,9 @@ UPDATE:
 3、纵坡功目前仅提供内置条件判断，后面会增设人工交互条件判断选项。
 
 ![images](/download/1.6.3/FIX1.png)
+
 ![images](/download/1.6.3/FIX2.png)
+
 ![images](/download/1.6.3/FIX3.png)
 
 :::
