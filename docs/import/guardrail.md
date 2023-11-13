@@ -66,7 +66,7 @@
 
 ![images](/import/guardrail/interchange.png)
 
-## 四、本章节为护栏数导入。
+## 四、本章节为护栏数据导入
 
 ```txt
 标线

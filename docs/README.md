@@ -2,6 +2,10 @@
 
 # 功能介绍
 
+**2.0 coming soon...**
+
+![image](/images/into.png)
+
 本软件为CAD二次开发软件，需要安装AUTOCAD及中望CAD版本进行使用。
 
 软件功能包括：标志、标线、护栏、通信管道、隧道预留预埋、智慧合杆、参数化结构设计与自动化分图等功能
@@ -18,14 +22,15 @@
 
 ### 软件安装位置
 
-默认情况下，《交通工程数字化设计系统》软件安装位置为 `C:\Program Files (x86)\ZJSoft`。
+默认情况下，《交通工程数字化设计系统》软件安装位置为:
+
+> 加载  `C:\Program Files (x86)\ZJSoft`。
 
 当安装完成后，应点击安装界面中的桌面建立启动图标，生成桌面启动快捷方式。
 
 如果发生无法启动软件的情况，可以使用CAD加载命令文件指令“appload”。
 
 > 加载 `C:\Program Files (x86)\ZJSoft\R23\kmCom.arx`  
-
 > 加载 `C:\Program Files (x86)\ZJSoft\R23\kmLoad.arx`
 
 加载完成后即可完成程序加载与启动。

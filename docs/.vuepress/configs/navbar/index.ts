@@ -2,7 +2,7 @@ import type { NavbarConfig } from '@vuepress/theme-default'
 
 export const navbarZhCN: NavbarConfig = [
     {
-        text: '入门',
+        text: '入门提要',
         link: '/start/'
     },
     {
@@ -14,15 +14,24 @@ export const navbarZhCN: NavbarConfig = [
         link: '/import/'
     },
     {
-        text: '功能',
+        text: '功能使用',
         link: '/functions/'
     },
     {
-        text: '输出',
+        text: '数据输出',
         children: [
             {
                 text: '数据输出',
                 link: '/outputs/'
+            },
+        ]
+    },
+    {
+        text: '更新下载',
+        children: [
+            {
+                text: '软件更新地址',
+                link: '/download/'
             },
         ]
     },
@@ -32,15 +41,6 @@ export const navbarZhCN: NavbarConfig = [
             {
                 text: '软件使用问答',
                 link: '/tips/'
-            },
-        ]
-    },
-    {
-        text: '下载与更新记录',
-        children: [
-            {
-                text: '软件更新地址',
-                link: '/download/'
             },
         ]
     },

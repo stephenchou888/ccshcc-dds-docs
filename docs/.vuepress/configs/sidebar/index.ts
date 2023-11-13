@@ -11,7 +11,7 @@ export const sidebarZhCN: SidebarConfig = {
     ],
     '/data/': [
         {
-            text: '数据导入',
+            text: '数据整理',
             children: [
                 '/data/README.md',
             ]
@@ -26,7 +26,17 @@ export const sidebarZhCN: SidebarConfig = {
                 '/import/markings.md',
                 '/import/guardrail.md',
                 '/import/communication.md',
-                '/import/tunnel.md'
+                '/import/tunnel.md',
+                '/import/common-pole.md'
+            ]
+        }
+    ],
+    '/functions/': [
+        {
+            text: '功能',
+            children: [
+                '/functions/Readme.md',
+                '/functions/signs.md'
             ]
         }
     ],
