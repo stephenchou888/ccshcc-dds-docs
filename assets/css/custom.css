@@ -1,0 +1,18 @@
+.md\:hx-text-5xl {
+    height: 80px;
+    font-size: 60px;
+}
+.dark\:hx-to-gray-400:is(html[class~="dark"] *) {
+    height: 80px;
+    font-size: 60px;
+    --tw-gradient-to: rgba(79, 7, 151, 0.2);
+}
+
+.hx-ease-in {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+.dark\:hx-bg-primary-600:is(html[class~="dark"] *) {
+    margin-top: 2.5rem;
+    margin-bottom: 2.5rem;
+}
