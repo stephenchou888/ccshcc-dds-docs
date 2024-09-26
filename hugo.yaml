@@ -1,3 +1,66 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+title: 交通工程数字化设计系统
+theme: hextra
+
+enableRobotsTXT: true
+hasCJKLanguage: true
+
+defaultContentLanguage: zh-cn
+languages:
+  zh-cn:
+    languageName: 简体中文
+    weight: 1
+
+enableInlineShortcodes: true
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo/light.svg
+      dark: images/logo/dark.svg
+    width: wide
+
+  page:
+    width: normal
+
+  theme:
+    default: system
+    displayToggle: true
+
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
+
+  displayUpdateDate: false
+
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+      tokenize: forward
+
+menu:
+  main:
+    - name: 产品文档
+      pageRef: /docs
+      weight: 1
+    - name: 下载更新
+      pageRef: /downloads
+      weight: 6
+    - name: 售后服务
+      pageRef: /support
+      weight: 8
+    - name: 搜索
+      weight: 9
+      params:
+        type: search
+    - name: GitHub
+      weight: 10
+      url: "https://github.com/setphenchou888/ccshcc-dds-docs"
+      params:
+        icon: github
+
