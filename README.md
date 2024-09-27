@@ -9,6 +9,26 @@
 
 基于 Cloudflare Pages 部署，详情参考 [Cloudflare Pages 官方文档](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/) 提供的说明。
 
+## 目录架构
+
+文档内容包括在 `docs` 中，比如图片在内的静态资源则存储在 `static` 中。
+
+完整的目录结构如下：
+
+```
+.
+├── archetypes
+├── assets
+├── content
+├── hugo.yaml
+├── i18n
+├── preview
+├── public
+├── README.md
+├── static
+└── themes
+```
+
 ## 本地调试
 
 本地调试建议建立 `preview` 站点进行预览，并用软链接方式进行调试，从而保障生产环境不受影响。具体配置方式如下：
