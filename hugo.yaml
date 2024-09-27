@@ -60,7 +60,7 @@ menu:
         type: search
     - name: GitHub
       weight: 10
-      url: "https://github.com/setphenchou888/ccshcc-dds-docs"
+      url: "https://github.com/stephenchou888/ccshcc-dds-docs"
       params:
         icon: github
 
