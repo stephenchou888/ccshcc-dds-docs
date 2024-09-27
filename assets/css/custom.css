@@ -1,9 +1,11 @@
 .md\:hx-text-5xl {
-    height: 80px;
+    height: auto;
+    line-height: 1.2;
     font-size: 60px;
 }
 .dark\:hx-to-gray-400:is(html[class~="dark"] *) {
-    height: 80px;
+    height: auto;
+    line-height: 1.2;
     font-size: 60px;
     --tw-gradient-to: rgba(79, 7, 151, 0.2);
 }
