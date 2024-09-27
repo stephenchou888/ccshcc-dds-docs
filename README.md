@@ -18,15 +18,25 @@
 ```
 .
 ├── archetypes
+│   └── default.md
 ├── assets
+│   └── css
 ├── content
+│   ├── docs
+│   ├── downloads
+│   ├── _index.md
+│   └── support
 ├── hugo.yaml
 ├── i18n
-├── preview
-├── public
+│   └── zh-cn.yaml
 ├── README.md
 ├── static
+│   ├── favicon-dark.svg
+│   ├── favicon.ico
+│   ├── favicon.svg
+│   └── img
 └── themes
+    └── hextra
 ```
 
 ## 本地调试
