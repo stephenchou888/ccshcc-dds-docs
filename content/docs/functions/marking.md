@@ -15,7 +15,7 @@ weight = 2
 - 新规范标志
 - 标志布设
 
-![images](/images/docs/functions/signs/signs-menu.png)
+![images](/img/docs/functions/signs/signs-menu.png)
 
 ## 二、常用标线功能
 
@@ -41,7 +41,7 @@ weight = 2
 
 > 标准库加载路径 `C:\Program Files (x86)\ZJSoft\BoxBD\COM`
 
-![images](/images/docs/functions/signs/标准库.png)
+![images](/img/docs/functions/signs/标准库.png)
 
 此路径下可存储使用者一切自定义导入的版面
 
@@ -49,7 +49,7 @@ weight = 2
 
 > 本地库加载路径 `C:\Program Files (x86)\ZJSoft\BoxBD\AS`
 
-![images](/images/docs/functions/signs/本地库.png)
+![images](/img/docs/functions/signs/本地库.png)
 
 3. 制作并完成入库
 
@@ -57,7 +57,7 @@ weight = 2
 
 4. 如何修改版面内容
 
-![images](/images/docs/functions/signs/修改.png)
+![images](/img/docs/functions/signs/修改.png)
 
 因版面图为属性块，则可直接调用后利用属性块特性进行直接编辑。
 
@@ -67,7 +67,7 @@ weight = 2
 
 2. 本软件能够自动追踪主线桩号体系，只需要按照前面数据归整与导入章节进行整理导入后即可完成全线桩号的自动追踪。
 
-![images](/images/docs/functions/signs/标志布设1.png)
+![images](/img/docs/functions/signs/标志布设1.png)
 
 3. 自动追踪可自动区分主线左右幅，并进行动态显示。
 
@@ -75,8 +75,8 @@ weight = 2
 
 5. 击点单悬臂然后再点击标志自动连（竖向排列指单一标志排列，而横向则通常代表桁架结构的多版面横向排列）即可完成标志的版面布置与结构设计完成布设。
 
-![images](/images/docs/functions/signs/标志布设2.png)
+![images](/img/docs/functions/signs/标志布设2.png)
 
-![images](/images/docs/functions/signs/标志布设3.png)
+![images](/img/docs/functions/signs/标志布设3.png)
 
 6. 低等级公路与其它类型高速、互通匝道功能一致。

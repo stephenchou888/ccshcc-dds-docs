@@ -13,7 +13,7 @@ weight = 2
 
 ### 注意
 
-![images](/images/docs/import/signs/signs2022.png)
+![images](/img/docs/import/signs/signs2022.png)
 
 - 本软件已实现交通部《道路交通标志和标线》GB5768.2-2022 全部新标志的入库可直接调用。
 
@@ -27,7 +27,7 @@ weight = 2
 
 标线的断面数据是一个可编辑.kdm文件，用户也可以根据软件提供的交互界面进行标线定义。
 
-![images](/images/docs/import/markings/marking-readme1.png)
+![images](/img/docs/import/markings/marking-readme1.png)
 
 ## 三、护栏工程
 

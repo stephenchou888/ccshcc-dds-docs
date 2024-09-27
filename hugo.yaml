@@ -17,8 +17,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/logo/light.svg
-      dark: images/logo/dark.svg
+      path: img/logo/light.svg
+      dark: img/logo/dark.svg
     width: wide
 
   page:

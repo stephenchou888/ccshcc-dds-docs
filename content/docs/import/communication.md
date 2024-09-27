@@ -13,7 +13,7 @@ weight = 4
 
 - 填挖方数据文件 `<主线.tf>`，文件名称必须和中线文件同名。
 
-![images](/images/docs/import/guardrail/Low-grade.png)
+![images](/img/docs/import/guardrail/Low-grade.png)
 
 - 高速公路设计（无分离式路基）与低等级公路相同。
 
@@ -25,19 +25,19 @@ weight = 4
 
 - 填挖方数据文件必须和中线文件同名。
 
-![images](/images/docs/import/guardrail/highway1.png)
+![images](/img/docs/import/guardrail/highway1.png)
 
 1. 导入路线数据
 
-![images](/images/docs/import/communication/communication-line.png)
+![images](/img/docs/import/communication/communication-line.png)
 
 2. 导入断链数据（与标志、标线、护栏等其它专业同理）
 
-![images](/images/docs/import/communication/communication-line-cut.png)
+![images](/img/docs/import/communication/communication-line-cut.png)
 
 3. 导入构造物数据（与标志、标线、护栏等其它专业同理）
 
-![images](/images/docs/import/communication/communication-bridge.png)
+![images](/img/docs/import/communication/communication-bridge.png)
 
 4. 本章节为 **护栏** 数导入。
 
