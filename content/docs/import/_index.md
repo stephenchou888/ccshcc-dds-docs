@@ -5,11 +5,6 @@ weight = 2
 
 {{< callout type="info" >}}
 本章节将会详细介绍关于软件是如何导入数据生成项目设计成果。
-{{< /callout >}}
-
-### 说明
-
-{{< callout type="info" >}}
 本章节数据导入软件演示采用 中望CAD 2024
 {{< /callout >}}
 
