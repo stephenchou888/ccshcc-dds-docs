@@ -3,7 +3,9 @@ title = "标线数据导入"
 weight = 2
 +++
 
+{{< callout type="info" >}}
 本文介绍使用标志施工图模式进行
+{{< /callout >}}
 
 **1. 数据准备阶段详见[数据整理](/docs/data/)帮助文档**
 

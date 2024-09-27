@@ -3,7 +3,9 @@ title = "护栏数据导入"
 weight = 3
 +++
 
-**本文介绍使用护栏A与护栏B两种功能模式进行使用进行**
+{{< callout type="info" >}}
+本文介绍使用护栏A与护栏B两种功能模式进行使用进行
+{{< /callout >}}
 
 **1. 数据准备阶段详见[数据整理](/data/readme.md)帮助文档**
 
@@ -21,12 +23,15 @@ weight = 3
 
 - 护栏布设思维导图
 
+{{< callout type="info" >}}
 ![images](/img/docs/import/guardrail/guardrailinto.png)
+{{< /callout >}}
 
 ## 一、护栏自动化布设模式A
 
 模式A为常见的主线自动化布设功能模式
 
+{{< callout type="info" >}}
 - 文件整理及命名
 
 - 低等级公路 将<直曲转角表>文件改名为：<主线.xlsx>，名称必须包含<主线>二字。
@@ -36,7 +41,9 @@ weight = 3
 ![images](/img/docs/import/guardrail/Low-grade.png)
 
 - 高速公路设计（无分离式路基）与低等级公路相同。
+{{< /callout >}}
 
+{{< callout type="warning" >}}
 - 高速公路设计（含分离式路基）
 
 - 主线右幅文件：<主线右幅.xlsx >，必须包含“主线右幅”文字。
@@ -46,6 +53,7 @@ weight = 3
 - 填挖方数据文件必须和中线文件同名。
 
 ![images](/img/docs/import/guardrail/highway1.png)
+{{< /callout >}}
 
 ## 二、护栏自动化布设模式B
 

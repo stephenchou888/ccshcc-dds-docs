@@ -7,6 +7,7 @@ weight = 4
 
 路线整理模式与护栏整理模式相同。
 
+{{< callout type="info" >}}
 - 文件整理及命名
 
 - 低等级公路 将 `<直曲转角表>` 文件改名为 `<主线.xlsx>`，名称必须包含 `<主线>` 二字。
@@ -16,7 +17,9 @@ weight = 4
 ![images](/img/docs/import/guardrail/Low-grade.png)
 
 - 高速公路设计（无分离式路基）与低等级公路相同。
+{{< /callout >}}
 
+{{< callout type="warning" >}}
 - 高速公路设计（含分离式路基）
 
 - 主线右幅文件：`<主线右幅.xlsx>`，必须包含`主线右幅`文字。
@@ -26,6 +29,7 @@ weight = 4
 - 填挖方数据文件必须和中线文件同名。
 
 ![images](/img/docs/import/guardrail/highway1.png)
+{{< /callout >}}
 
 1. 导入路线数据
 

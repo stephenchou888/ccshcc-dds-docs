@@ -3,11 +3,15 @@ title = '数据导入'
 weight = 2
 +++
 
+{{< callout type="info" >}}
 本章节将会详细介绍关于软件是如何导入数据生成项目设计成果。
+{{< /callout >}}
 
 ### 说明
 
-- 本章节数据导入软件演示采用 中望CAD 2024
+{{< callout type="info" >}}
+本章节数据导入软件演示采用 中望CAD 2024
+{{< /callout >}}
 
 ## 一、标志工程
 
@@ -23,16 +27,16 @@ weight = 2
 
 标线功能包括主线定义断面式绘制与互通匝道鼠标动作点击式布设，根据不同类型标线选择功能进行设计。
 
-### 注意
 
+{{< callout type="info" >}}
 标线的断面数据是一个可编辑.kdm文件，用户也可以根据软件提供的交互界面进行标线定义。
 
 ![images](/img/docs/import/markings/marking-readme1.png)
+{{< /callout >}}
 
 ## 三、护栏工程
 
-### 提示
-
+{{< callout type="warning" >}}
 护栏自动化布设适用范围
 
 ```txt
@@ -65,6 +69,7 @@ weight = 2
 ├─ 生成互通安全设施平面图
 └─ 生在工程数量
 ```
+{{< /callout >}}
 
 ## 四、通信工程
 

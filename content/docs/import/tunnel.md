@@ -11,7 +11,8 @@ weight = 5
 
 ![images](/img/docs/import/tunnel/tunnel-file.png)
 
-- 文件内容展示如下
+{{< callout type="info" >}}
+文件内容展示如下
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -48,14 +49,17 @@ weight = 5
     <Item 中心桩号="7+100" 长度="40" 宽度="3.5" />
   </下侧紧急停车带>
 ```
+{{< /callout >}}
 
 软件采用开放式存储数据格式XML格式存储，其中上述文件均可进行再编辑进行软件二次数据修改及导入。
 
 2. 隧道主体信息界面
 
+{{< callout type="info" >}}
 软件支持单洞、双洞、隧道等级自定义、车道数定义等功能。
 ![images](/img/docs/import/tunnel/tunnel-into.png)
 ![images](/img/docs/import/tunnel/tunnel-into2.png)
+{{< /callout >}}
 
 3. 数据输入完成后即可完成平面图绘制
 

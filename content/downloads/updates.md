@@ -21,7 +21,7 @@ weight = 1
 
 8. 护栏格式刷，取消备注项匹配，避免将构造物名称重复的错误。
 
-![images](/images/downloads/1.6.5/钢筋材料温度变化表.jpeg)
+![images](/img/downloads/1.6.5/钢筋材料温度变化表.jpeg)
 
 ## 1.6.3-1
 
@@ -29,15 +29,15 @@ weight = 1
 
 本次更新新增第一个软件标志通用扩展包
 
-![images](/images/downloads/1.6.3-1/sings-0.png)
+![images](/img/downloads/1.6.3-1/sings-0.png)
 
-![images](/images/downloads/1.6.3-1/sings-1.png)
+![images](/img/downloads/1.6.3-1/sings-1.png)
 
-![images](/images/downloads/1.6.3-1/sings-2.png)
+![images](/img/downloads/1.6.3-1/sings-2.png)
 
 新增B模式护栏中分带新模式中的基准原则
 
-![images](/images/downloads/1.6.3-1/guardrail-hand.png)
+![images](/img/downloads/1.6.3-1/guardrail-hand.png)
 
 ## 1.6.3
 
@@ -47,9 +47,9 @@ weight = 1
 
 3. 纵坡功目前仅提供内置条件判断，后面会增设人工交互条件判断选项。
 
-![images](/images/downloads/1.6.3/FIX1.jpeg)
+![images](/img/downloads/1.6.3/FIX1.jpeg)
 
-![images](/images/downloads/1.6.3/FIX2.jpeg)
+![images](/img/downloads/1.6.3/FIX2.jpeg)
 
-![images](/images/downloads/1.6.3/FIX3.jpeg)
+![images](/img/downloads/1.6.3/FIX3.jpeg)
 
