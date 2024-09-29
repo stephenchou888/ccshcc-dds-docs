@@ -2,7 +2,7 @@
 title = '产品文档'
 +++
 
-![images](/img/home.png)
+![images](/img/home.webp)
 
 ## 入门提要
 
