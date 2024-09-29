@@ -7,7 +7,7 @@ weight = 1
 
 主体构造物数据归整与清洗是为了方便导入数据表格更快、更高效的完成任意设计项目的前置数据准备。
 
-![image](/img/docs/data/structuretable.png)
+![image](/img/docs/data/structuretable.webp)
 
 ## 1. 构造物表数据
 
@@ -26,7 +26,7 @@ weight = 1
 
 完成标段划分工作（如果不需要则不填写）
 
-![images](/img/docs/data/biddingsection.png)
+![images](/img/docs/data/biddingsection.webp)
 
 ## 3. 路线数据准备工作
 
@@ -41,13 +41,13 @@ weight = 1
 
 直曲转角表方式以主体工程提供表格为准
 
-![images](/img/docs/data/curvedtable.png)
+![images](/img/docs/data/curvedtable.webp)
 
 ## 5. 路线数据提取
 
 在没有直曲转角表提前下可采用第二种方式主线提取
 
-![images](/img/docs/data/roadtouch.png)
+![images](/img/docs/data/roadtouch.webp)
 
 **Tips：在导入数据时如果在此有分离式路段，则可以需要进行路线数据拆分工作，文件名命名如下：**
 

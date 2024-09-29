@@ -11,11 +11,11 @@ weight = 1
 
 2. 路线数据导入
 
-![images](/img/docs/import/signs/signsroad.png)
+![images](/img/docs/import/signs/signsroad.webp)
 
 3. 构造物数据导入
 
-![images](/img/docs/import/signs/signsbridge.png)
+![images](/img/docs/import/signs/signsbridge.webp)
 
 4. 本章节标志数据并不要求特别数据导入，因为标志设计关键点在于路线与构造物关系。
 

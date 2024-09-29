@@ -17,7 +17,7 @@ weight = 3
 ├─ 打开隧道照明主设计栏
 ```
 
-![images](/img/docs/functions/tunnel-lighting/隧道照明主菜单.png)
+![images](/img/docs/functions/tunnel-lighting/隧道照明主菜单.webp)
 
 ## 二、工程信息面版
 
@@ -30,9 +30,9 @@ weight = 3
 ├─ 工程信息保存、导入、导出
 ```
 
-![images](/img/docs/functions/tunnel-lighting/隧道照明主控面版1.png)
+![images](/img/docs/functions/tunnel-lighting/隧道照明主控面版1.webp)
 
-![images](/img/docs/functions/tunnel-lighting/照明计算2.png)
+![images](/img/docs/functions/tunnel-lighting/照明计算2.webp)
 
 ## 三、照明布设面版
 
@@ -47,7 +47,7 @@ weight = 3
 ├─ 自动分图处理
 ```
 
-![images](/img/docs/functions/tunnel-lighting/照明布设面版3.png)
+![images](/img/docs/functions/tunnel-lighting/照明布设面版3.webp)
 
 ## 四、自定义图库面版
 
@@ -60,7 +60,7 @@ weight = 3
 └─ 图库二次处理
 ```
 
-![images](/img/docs/functions/tunnel-lighting/照明图库功能4.png)
+![images](/img/docs/functions/tunnel-lighting/照明图库功能4.webp)
 
 ## 五、功能使用帮助
 
@@ -77,4 +77,4 @@ weight = 3
 └─ 9. 按照切分好图框完成整合、打印，并闭合校审流程
 ```
 
-![images](/img/docs/functions/tunnel-lighting/最终成果5.png)
+![images](/img/docs/functions/tunnel-lighting/最终成果5.webp)

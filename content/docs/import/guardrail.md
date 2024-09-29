@@ -24,7 +24,7 @@ weight = 3
 - 护栏布设思维导图
 
 {{< callout type="info" >}}
-![images](/img/docs/import/guardrail/guardrailinto.png)
+![images](/img/docs/import/guardrail/guardrailinto.webp)
 {{< /callout >}}
 
 ## 一、护栏自动化布设模式A
@@ -38,7 +38,7 @@ weight = 3
 
 - 填挖方数据文件<主线.tf>，文件名称必须和中线文件同名。
 
-![images](/img/docs/import/guardrail/Low-grade.png)
+![images](/img/docs/import/guardrail/Low-grade.webp)
 
 - 高速公路设计（无分离式路基）与低等级公路相同。
 {{< /callout >}}
@@ -52,7 +52,7 @@ weight = 3
 
 - 填挖方数据文件必须和中线文件同名。
 
-![images](/img/docs/import/guardrail/highway1.png)
+![images](/img/docs/import/guardrail/highway1.webp)
 {{< /callout >}}
 
 ## 二、护栏自动化布设模式B
@@ -65,9 +65,9 @@ weight = 3
 
 - 互通立交不需要填挖方数据。
 
-![images](/img/docs/import/guardrail/roadtouch.png)
+![images](/img/docs/import/guardrail/roadtouch.webp)
 
-![images](/img/docs/import/guardrail/interchange.png)
+![images](/img/docs/import/guardrail/interchange.webp)
 
 ## 四、本章节为护栏数据导入
 

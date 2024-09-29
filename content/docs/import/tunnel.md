@@ -9,7 +9,7 @@ weight = 5
 
 1. 隧道存储文件采用XML开放式通用格式存储，并且支持用户编辑
 
-![images](/img/docs/import/tunnel/tunnel-file.png)
+![images](/img/docs/import/tunnel/tunnel-file.webp)
 
 {{< callout type="info" >}}
 文件内容展示如下
@@ -57,13 +57,13 @@ weight = 5
 
 {{< callout type="info" >}}
 软件支持单洞、双洞、隧道等级自定义、车道数定义等功能。
-![images](/img/docs/import/tunnel/tunnel-into.png)
-![images](/img/docs/import/tunnel/tunnel-into2.png)
+![images](/img/docs/import/tunnel/tunnel-into.webp)
+![images](/img/docs/import/tunnel/tunnel-into2.webp)
 {{< /callout >}}
 
 3. 数据输入完成后即可完成平面图绘制
 
-![images](/img/docs/import/tunnel/tunnel-into3.png)
+![images](/img/docs/import/tunnel/tunnel-into3.webp)
 
 4. 本章节为隧道机电数据导入
 

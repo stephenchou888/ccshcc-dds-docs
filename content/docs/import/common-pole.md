@@ -11,15 +11,15 @@ weight = 6
 
 2. 软件包括布设与结构参数化设计2个模块组合而成。
 
-![images](/img/docs/import/common-pole/common-pole.png)
+![images](/img/docs/import/common-pole/common-pole.webp)
 
 3. 软件支持从市政道路到高等级公路的灯杆自动化照明布设。
 
-![images](/img/docs/import/common-pole/line.png)
+![images](/img/docs/import/common-pole/line.webp)
 
 4. 导入主线数据后接着导入软件自带默认基准设计原则库。
 
-![images](/img/docs/import/common-pole/manu.png)
+![images](/img/docs/import/common-pole/manu.webp)
 
 5. 本章节为智慧合杆数据导入
 

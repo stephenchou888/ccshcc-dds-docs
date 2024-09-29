@@ -29,15 +29,15 @@ weight = 1
 
 本次更新新增第一个软件标志通用扩展包
 
-![images](/img/downloads/1.6.3-1/sings-0.png)
+![images](/img/downloads/1.6.3-1/sings-0.webp)
 
-![images](/img/downloads/1.6.3-1/sings-1.png)
+![images](/img/downloads/1.6.3-1/sings-1.webp)
 
-![images](/img/downloads/1.6.3-1/sings-2.png)
+![images](/img/downloads/1.6.3-1/sings-2.webp)
 
 新增B模式护栏中分带新模式中的基准原则
 
-![images](/img/downloads/1.6.3-1/guardrail-hand.png)
+![images](/img/downloads/1.6.3-1/guardrail-hand.webp)
 
 ## 1.6.3
 

@@ -11,19 +11,19 @@ weight = 2
 
 2. 路线数据导入
 
-![images](/img/docs/import/markings/markroad.png)
+![images](/img/docs/import/markings/markroad.webp)
 
 3. 断链数据导入
 
-![images](/img/docs/import/markings/markcut.png)
+![images](/img/docs/import/markings/markcut.webp)
 
 4. 构造物数据导入
 
-![images](/img/docs/import/markings/markbridge.png)
+![images](/img/docs/import/markings/markbridge.webp)
 
 5. 标段划分数据导入（仅需要标段划分时使用）
 
-![images](/img/docs/import/markings/marklinecut.png)
+![images](/img/docs/import/markings/marklinecut.webp)
 
 6. 本章节为 **标线** 数导入。
 
